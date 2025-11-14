@@ -1,0 +1,5 @@
+0000000000000000000000000000000000000000 3e7ef0182f59c7990a52cf6ec2981adb56d5b368 user <user@WIN-0UQGH7LLU69.localdomain> 1752763870 +0300	fetch --depth=1 origin: storing head
+3e7ef0182f59c7990a52cf6ec2981adb56d5b368 2525dae6613652ec9cb572bdc2fdf80ef837a967 Захар Пархомчук <z.parhomchuk@thirdpin.io> 1756210672 +0300	pull --quiet --rebase origin master: fast-forward
+2525dae6613652ec9cb572bdc2fdf80ef837a967 ddd77516efb1393af738e57de9522e091c63c5b6 Захар Пархомчук <z.parhomchuk@thirdpin.io> 1758487119 +0300	pull --quiet --rebase origin master: fast-forward
+ddd77516efb1393af738e57de9522e091c63c5b6 1210973cbc978097adfa8f31becf5fe4e2acce99 Захар Пархомчук <z.parhomchuk@thirdpin.io> 1759672071 +0300	pull --quiet --rebase origin master: fast-forward
+1210973cbc978097adfa8f31becf5fe4e2acce99 5a282b9b3050e4851c15cfdb9d79af6a708988b7 Захар Пархомчук <z.parhomchuk@thirdpin.io> 1763131434 +0300	pull --quiet --rebase origin master: fast-forward
