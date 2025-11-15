@@ -114,7 +114,9 @@ source $ZSH/oh-my-zsh.sh
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
+{{   if eq .chezmoi.osRelease.id "ubuntu" }}
 alias bat="batcat"
+{{ end }}
 
 export COLORTERM=truecolor
 
