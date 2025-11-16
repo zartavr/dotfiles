@@ -49,7 +49,8 @@ fi
 # Установка базовых пакетов
 step "1. Install basic packages ..."
 base_packages="which wget curl git zsh fontconfig make
-tldr ripgrep bat fd fzf btop duf dust tree eza zoxide"
+tldr helix ripgrep bat fd fzf bat btop duf dust tree eza zoxide
+diffutils man openssh less tree"
 install_packages "$base_packages"
 
 # Install and setup Oh My Zsh
