@@ -120,7 +120,8 @@ alias bat="batcat"
 alias ls="eza -lh"
 alias cd="z"
 alias open="explorer.exe"
-
+alias br="firefox.exe"
+alias ip="ip -color=auto"
 # fancy help with bathelp
 alias bathelp='bat --plain --language=help'
 help() {
@@ -169,3 +170,6 @@ export FZF_CTRL_T_OPTS="
 export FZF_ALT_C_OPTS="
   --walker-skip .git,node_modules,target
   --preview 'tree -C {}'"
+
+export VCPKG_ROOT=/etc/vcpkg
+
